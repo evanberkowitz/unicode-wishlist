@@ -5,3 +5,4 @@ How is there no emoji for...
  - [ ] ketchup, mustard, or generic condiment in squeeze bottle.
  - [ ] lime
  - [ ] bench
+ - [ ] zeppelin / blimp

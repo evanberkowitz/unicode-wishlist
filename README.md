@@ -6,3 +6,4 @@ How is there no emoji for...
  - [ ] lime
  - [ ] bench
  - [ ] zeppelin / blimp
+ - [ ] sweatshirt / hoodie

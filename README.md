@@ -7,3 +7,5 @@ How is there no emoji for...
  - [ ] bench
  - [ ] zeppelin / blimp
  - [ ] sweatshirt / hoodie
+ - [ ] kidney
+ - [ ] bean

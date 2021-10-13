@@ -9,3 +9,4 @@ How is there no emoji for...
  - [ ] sweatshirt / hoodie
  - [ ] kidney
  - [ ] bean
+ - [ ] sea urchin

@@ -10,3 +10,4 @@ How is there no emoji for...
  - [ ] kidney
  - [ ] bean
  - [ ] sea urchin
+ - [ ] lasagne

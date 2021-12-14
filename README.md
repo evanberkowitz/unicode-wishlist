@@ -11,3 +11,4 @@ How is there no emoji for...
  - [ ] bean
  - [ ] sea urchin
  - [ ] lasagne
+ - [ ] manatee

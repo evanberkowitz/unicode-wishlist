@@ -12,3 +12,4 @@ How is there no emoji for...
  - [ ] sea urchin
  - [ ] lasagne
  - [ ] manatee
+ - [ ] waterfall

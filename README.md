@@ -13,3 +13,5 @@ How is there no emoji for...
  - [ ] lasagne
  - [ ] manatee
  - [ ] waterfall
+ - [ ] pyramid
+ - [ ] square and compass

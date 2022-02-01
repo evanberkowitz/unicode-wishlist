@@ -15,3 +15,4 @@ How is there no emoji for...
  - [ ] waterfall
  - [ ] pyramid
  - [ ] square and compass
+ - [ ] moose

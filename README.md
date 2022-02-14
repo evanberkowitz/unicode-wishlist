@@ -16,3 +16,4 @@ How is there no emoji for...
  - [ ] pyramid
  - [ ] square and compass
  - [ ] moose
+ - [ ] anvil

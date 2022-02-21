@@ -17,3 +17,4 @@ How is there no emoji for...
  - [ ] square and compass
  - [ ] moose
  - [ ] anvil
+ - [ ] eclipse

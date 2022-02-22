@@ -18,3 +18,4 @@ How is there no emoji for...
  - [ ] moose
  - [ ] anvil
  - [ ] eclipse
+ - [ ] sea urchin

@@ -19,3 +19,4 @@ How is there no emoji for...
  - [ ] anvil
  - [ ] eclipse
  - [ ] sea urchin
+ - [ ] bird tracks; there are already 🐾 and 👣

@@ -20,3 +20,4 @@ How is there no emoji for...
  - [ ] eclipse
  - [ ] sea urchin
  - [ ] bird tracks; there are already 🐾 and 👣
+ - [ ] yak / gnu

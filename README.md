@@ -21,3 +21,4 @@ How is there no emoji for...
  - [ ] sea urchin
  - [ ] bird tracks; there are already 🐾 and 👣
  - [ ] yak / gnu
+ - [ ] lighthouse

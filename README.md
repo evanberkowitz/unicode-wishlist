@@ -13,7 +13,7 @@ How is there no emoji for...
  - [ ] lasagne
  - [ ] manatee
  - [ ] waterfall
- - [ ] pyramid
+ - [ ] pyramid / sphinx
  - [ ] square and compass
  - [ ] moose
  - [ ] anvil

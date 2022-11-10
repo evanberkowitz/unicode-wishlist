@@ -22,3 +22,5 @@ How is there no emoji for...
  - [ ] bird tracks; there are already 🐾 and 👣
  - [ ] yak / gnu
  - [ ] lighthouse
+ - [ ] flag-ussr
+ - [ ] flag-nato

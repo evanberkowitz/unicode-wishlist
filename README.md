@@ -24,3 +24,4 @@ How is there no emoji for...
  - [ ] lighthouse
  - [ ] flag-ussr
  - [ ] flag-nato
+ - [ ] vinyl record and cassette; already have 💿
